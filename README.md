@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RJ-0605/RJ-0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Hi i am Rodney Jedidiah Tetteh Kwao , i studied computer science with physics BSc.  in the University of Ghana,
 i have not been really active in the field of coding projects myself ,  however i wish into a career which involves developing and supporting software ,
