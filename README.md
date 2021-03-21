@@ -1,5 +1,5 @@
 
 
+Never be complacent 
 
-
-Stay Humble and hungry ✊
+Stay Humble and Hungry ✊
