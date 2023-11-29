@@ -1,6 +1,6 @@
 
 
-Scientist , Engineer, Data-Scientist and Software Developer 
+Scientist , Devops Engineer, Data-Scientist and Software Developer 
 
 
 Never be complacent 
